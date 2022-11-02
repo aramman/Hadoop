@@ -1,4 +1,9 @@
-dn1.cluster1.com
-dn2.cluster1.com
-dn3.cluster1.com
-dn4.cluster1.com
+worker001.BDATA.COM
+worker002.BDATA.COM
+worker003.BDATA.COM
+worker001.bdata.com
+worker002.bdata.com
+worker003.bdata.com
+worker001
+worker002
+worker003
